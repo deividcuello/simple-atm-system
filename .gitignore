@@ -1,0 +1,3 @@
+# Evita subir accidentalmente la base de datos creada con sqlite3
+
+*.db
