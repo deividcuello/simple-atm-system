@@ -41,7 +41,7 @@ class Cuenta: # la clase tiene la funcion retirar, depositar y ver balance dentr
     		print('-'*20)# eso son las rayitas que aparecen 20 veces 
     		break # eso para que no recorra mas 
     	print('-'*20)	
-if __name__ == '__main__': # 
+if __name__ == '__main__':
 	def main(): # esta es la funcion principal
 		def iniciarSesion():
 			opcion = 0
@@ -86,5 +86,3 @@ if __name__ == '__main__': #
 		iniciarSesion()
 
 	main()
-
-    # el self es para llamar donde el quiera en esa funcion 
